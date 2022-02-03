@@ -3,15 +3,12 @@ import java.util.*;
 
 class OnlyAbove18 extends Exception
 {
-
 	public OnlyAbove18(String msg)
 	{
 		super(msg);
 	}
 	
 }
-
-
 
 public class MyThrowExceptionAge 
 {	
